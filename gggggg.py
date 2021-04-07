@@ -4,7 +4,8 @@ def myjob():
  print("lol")
 
 
-
+def bar():
+ print("hi bar")
 
 
 
@@ -12,3 +13,4 @@ def myjob():
 
 def main():
  print("hi vendu")
+ bar()
